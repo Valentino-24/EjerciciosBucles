@@ -1,3 +1,11 @@
+/*
+Ejercicio 3: Control de inventario
+Una tienda necesita revisar el inventario de sus productos y determinar si algún artículo tiene menos de 5 unidades disponibles para realizar un pedido.
+Instrucciones:
+•	Pide al usuario ingresar el número de productos.
+•	Usa un bucle para ingresar la cantidad disponible de cada producto.
+•	Si algún producto tiene menos de 5 unidades, muestra un mensaje indicando que es necesario realizar un pedido.
+ */
 import java.util.Scanner;
 public class ejercicio3 {
     public static void main(String[] args){
